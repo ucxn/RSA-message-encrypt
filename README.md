@@ -14,6 +14,6 @@
 
 本工具可以保证：在地球文明范围内，只要私钥绝对保密，密文即使完全、广泛泄露，能够保持至少114514年的离线安全性。即：无法从密文恢复明文，无法利用已知的明文和密文反推密码（密钥+口令）。
 
-作者QQ群：680464365，B站：https://space.bilibili.com/501430041，知乎：https://www.zhihu.com/people/guka0930
+作者QQ群：680464365 B站：https://space.bilibili.com/501430041 知乎：https://www.zhihu.com/people/guka0930
 
 功能：1. 加密 2.解密 3.生成密钥对 4.base64解密 0.指定密钥长度 H.消息认证码
