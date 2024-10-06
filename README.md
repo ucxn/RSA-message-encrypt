@@ -39,9 +39,9 @@ Bilibili: [https://space.bilibili.com/501430041](https://space.bilibili.com/5014
 Zhihu: [https://www.zhihu.com/people/guka0930](https://www.zhihu.com/people/guka0930)
 
 Features:  
-1. Encrypt  
-2. Decrypt  
-3. Generate key pair  
-4. Base64 decryption  
-0. Specify key length  
-H. Message Authentication Code (MAC)
+1. Encrypt
+2. Decrypt
+3. Generate key pair
+4. Base64 decryption
+0. Specify key length
+H. Message Authentication Code (HMAC)
