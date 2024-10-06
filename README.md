@@ -17,3 +17,31 @@
 作者QQ群：680464365 B站：https://space.bilibili.com/501430041 知乎：https://www.zhihu.com/people/guka0930
 
 功能：1. 加密 2.解密 3.生成密钥对 4.base64解密 0.指定密钥长度 H.消息认证码
+
+Welcome to the RSA Asymmetric Encryption Tool
+
+This tool can encrypt text and ensure the confidentiality of messages (security), even if the entire communication is being intercepted.
+
+Warning: This tool cannot prevent man-in-the-middle (MITM) attacks (where the recipient's key or message is tampered with). Since the private key is stored locally, the most likely attacks include, but are not limited to: altering the generated public key, leading to insecure encryption on the recipient's side; a man-in-the-middle attacker decrypts your message, then re-encrypts it with your public key without your awareness; altering the encrypted message so that it decodes to a different result. Since the public key is available to anyone, attackers can tamper with your encrypted message and still create meaningful content, again without your knowledge.
+
+This tool is secure when the attacker can only eavesdrop and cannot modify your communication (excluding terminal attacks such as computer viruses, side-channel attacks like recording keystrokes, physical attacks like freezing memory, or social engineering attacks like shoulder surfing).
+
+If you are concerned about the security of this tool in a complex network attack environment, you can transmit/verify information in batches across different channels, such as sending a hash via phone, using Diffie-Hellman (ECDH), or exchanging CA certificates offline.
+
+This tool does not encrypt RAM, so please encrypt it yourself or ensure memory integrity. Also, ensure no suspicious high-privilege processes are running on your computer and that no malware is present or active. Make sure the computer has never been physically compromised. This tool does not guarantee that the transmission is tamper-proof, nor can it prevent interception or replay attacks. It also does not guarantee message authenticity, integrity, non-repudiation, isolation, control, auditability, or availability.
+
+Although cryptographic security does not rely on the secrecy of the encryption algorithm itself, and open-source algorithms are generally more secure, this software has made some modifications to certain details for ease of use, making it proprietary. Please keep this software safe to avoid future issues with decryption.
+
+This tool guarantees that, within the realm of Earth’s civilization, as long as the private key is kept absolutely confidential, even if the ciphertext is fully and widely exposed, it will remain offline-secure for at least 114,514 years. That is, it is impossible to recover the plaintext from the ciphertext, or reverse-engineer the key (key + passphrase) from known plaintext and ciphertext.
+
+Author's QQ group: 680464365  
+Bilibili: [https://space.bilibili.com/501430041](https://space.bilibili.com/501430041)  
+Zhihu: [https://www.zhihu.com/people/guka0930](https://www.zhihu.com/people/guka0930)
+
+Features:  
+1. Encrypt  
+2. Decrypt  
+3. Generate key pair  
+4. Base64 decryption  
+0. Specify key length  
+H. Message Authentication Code (MAC)
