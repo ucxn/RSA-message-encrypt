@@ -38,10 +38,11 @@ Author's QQ group: 680464365
 Bilibili: [https://space.bilibili.com/501430041](https://space.bilibili.com/501430041)  
 Zhihu: [https://www.zhihu.com/people/guka0930](https://www.zhihu.com/people/guka0930)
 
+
 Features:  
-1. Encrypt
-2. Decrypt
-3. Generate key pair
-4. Base64 decryption
-0. Specify key length
+1\. Encrypt  
+2\. Decrypt  
+3\. Generate key pair  
+4\. Base64 decryption  
+0\. Specify key length  
 H. Message Authentication Code (HMAC)
