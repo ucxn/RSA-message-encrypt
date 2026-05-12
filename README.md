@@ -34,7 +34,7 @@ Although cryptographic security does not rely on the secrecy of the encryption a
 
 This tool guarantees that, within the realm of Earth’s civilization, as long as the private key is kept absolutely confidential, even if the ciphertext is fully and widely exposed, it will remain offline-secure for at least 114,514 years. That is, it is impossible to recover the plaintext from the ciphertext, or reverse-engineer the key (key + passphrase) from known plaintext and ciphertext.
 
-Author's Zhihu: [https://www.zhihu.com/people/guka0930](https://www.zhihu.com/people/guka0930)
+Author: [https://www.zhihu.com/people/guka0930](https://www.zhihu.com/people/guka0930)
 
 
 Features:  
