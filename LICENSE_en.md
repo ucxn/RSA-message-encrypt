@@ -12,7 +12,7 @@ Brotech Proprietary Software End User License Agreement (EULA)
 
 **Copyright © [2024-Present] Brotech. All Rights Reserved.**<br><br>
 
-※ This translated version is for reference only. The [Simplified Chinese Version] (./LICENSE.md) shall prevail and hold sole legal validity.<br><br>
+※ This translated version is for reference only. The [Simplified Chinese Version](./LICENSE.md) shall prevail and hold sole legal validity.<br><br>
 
 
 **[IMPORTANT NOTICE — PLEASE READ CAREFULLY]**
