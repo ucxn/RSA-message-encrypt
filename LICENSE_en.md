@@ -28,8 +28,8 @@ If you do not agree to any of the terms of this Agreement, please do not downloa
 
 =======================================================================
 
-Thank you for using this Software. This Software is a proprietary encryption tool based on a TUI (Text-based User Interface).
-The Author advocates for the pure interactive aesthetic of "The Tao of Simplicity." To maintain the original design philosophy and interactive experience of this Software, by downloading, copying, distributing, or otherwise using the binary executable file of this Software, you fully agree to and accept all of the following terms:
+Thank you for using this Software. This Software is a proprietary encryption tool based on a TUI (Text-based User Interface).<br>
+The Author advocates for the pure interactive aesthetic of "The Tao of Simplicity." To maintain the original design philosophy and interactive experience of this Software,<br> by downloading, copying, distributing, or otherwise using the binary executable file of this Software, you fully agree to and accept all of the following terms:
 
 ### I. Scope of License
 
@@ -153,11 +153,11 @@ To the maximum extent permitted by applicable law, the Author provides no warran
 The Author makes no direct or indirect guarantees regarding the fitness, security, or error-free nature of these programs. All risks arising from the use of this work are assumed solely by the user.
 
 > [!CAUTION]
-> This tool cannot defend against Man-In-The-Middle (MITM) attacks (i.e., where the adversary tampers with the keys or messages you transmit). Since private keys are stored locally, the most likely attacks include but are not limited to: Tampering with the generated public key, leading the other party to perform insecure encryption, whereupon the MITM attacker decrypts your message and re-encrypts it with your public key without you even noticing;
-> Tampering with the transmitted ciphertext, causing it to decode into a different result. Since the public key is public, (subject to technical constraints under extreme conditions) an attacker could tamper with your ciphertext to fabricate meaningful information without you noticing: The Author provides no guarantee against this.
-> This tool is secure when an attacker is purely eavesdropping and unable to tamper with your communication. (This does not include terminal attacks such as viruses on either party's computer, side-channel attacks like recording keystroke acoustics, physical attacks like freezing RAM, or social engineering attacks such as shoulder surfing).
-> If you are operating within a complex network attack environment and have concerns regarding the security of this tool, you may use multiple distinct channels to transmit/verify information in batches—for instance, relaying hashes via telephone, using Diffie-Hellman (ECDH), or exchanging CA certificates offline.
-> This tool does not encrypt RAM; please encrypt it yourself or ensure memory integrity. Please personally verify that no suspicious high-privilege processes are running on your computer, nor is any malware stored or executed. Ensure that the computer has not been subjected to prior physical attacks. This tool cannot ensure that the transmission process will not be tampered with, cannot prevent interception or replay attacks, and does not guarantee the authenticity, integrity, non-repudiation, isolation, controllability, auditability, or availability of messages.
+> This tool cannot defend against Man-In-The-Middle (MITM) attacks (i.e., where the adversary tampers with the keys or messages you transmit). Since private keys are stored locally, the most likely attacks include but are not limited to: Tampering with the generated public key, leading the other party to perform insecure encryption, whereupon the MITM attacker decrypts your message and re-encrypts it with your public key without you even noticing;<br>
+> Tampering with the transmitted ciphertext, causing it to decode into a different result. Since the public key is public, (subject to technical constraints under extreme conditions) an attacker could tamper with your ciphertext to fabricate meaningful information without you noticing: The Author provides no guarantee against this.<br><br>
+> This tool is secure when an attacker is purely eavesdropping and unable to tamper with your communication. (This does not include terminal attacks such as viruses on either party's computer, side-channel attacks like recording keystroke acoustics, physical attacks like freezing RAM, or social engineering attacks such as shoulder surfing).<br>
+> If you are operating within a complex network attack environment and have concerns regarding the security of this tool, you may use multiple distinct channels to transmit/verify information in batches—for instance, relaying hashes via telephone, using Diffie-Hellman (ECDH), or exchanging CA certificates offline.<br><br>
+> This tool does not encrypt RAM; please encrypt it yourself or ensure memory integrity. Please personally verify that no suspicious high-privilege processes are running on your computer, nor is any malware stored or executed. Ensure that the computer has not been subjected to prior physical attacks. This tool cannot ensure that the transmission process will not be tampered with, cannot prevent interception or replay attacks, and does not guarantee the authenticity, integrity, non-repudiation, isolation, controllability, auditability, or availability of messages.<br><br>
 > Although the security of cryptography is not ensured by the secrecy of the encryption algorithm itself, and open-source encryption algorithms are generally safer, this Software has made modifications to certain details for ease of use, making it proprietary software. Please keep this Software safe to avoid being unable to decrypt your data in the future.
 
 ### 6. Severability
@@ -187,7 +187,7 @@ Associated with this Software:
 
 #### 3. Final Interpretation
 
-The right of final interpretation regarding the underlying interaction design philosophy, agreement text, and related documentation of this Software belongs to "Brotech". Any behavior attempting to bypass the textual expression of this Agreement or distort the Author's intent through legal loopholes will be deemed a malicious breach of contract.
+The right of final interpretation regarding the underlying interaction design philosophy, agreement text, and related documentation of this Software belongs to "Brotech".<br><br> Any behavior attempting to bypass the textual expression of this Agreement or distort the Author's intent through legal loopholes will be deemed a malicious breach of contract.
 
 =
                    [END OF AGREEMENT]
