@@ -11,6 +11,10 @@ Brotech Proprietary Software End User License Agreement (EULA)
 **Release Date:** 2024
 
 **Copyright © [2024-Present] Brotech. All Rights Reserved.**<br><br>
+
+※ This translated version is for reference only. The [Simplified Chinese Version] (./LICENSE.md) shall prevail and hold sole legal validity.<br><br>
+
+
 **[IMPORTANT NOTICE — PLEASE READ CAREFULLY]**
 
 This End User License Agreement (hereinafter referred to as "this Agreement") is a legal contract between you (a natural person, legal entity, or any unincorporated organization) and "Brotech" (hereinafter referred to as the "Author") regarding the aforementioned software product (hereinafter referred to as "this Software").
