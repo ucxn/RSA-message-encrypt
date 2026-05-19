@@ -3,11 +3,14 @@ Brotech Proprietary Software End User License Agreement (EULA)
 =======================================================================
 
 **Software Name:** RSA Asymmetric Message Encryption Tool
-**Program Format:** Interactive Terminal (TUI)
-**Agreement Version:** 2.0 (Proprietary Binary Release)
-**Release Date:** 2024
-**Copyright © [2024-Present] Brotech. All Rights Reserved.**
 
+**Program Format:** Interactive Terminal (TUI)
+
+**Agreement Version:** 2.0 (Proprietary Binary Release)
+
+**Release Date:** 2024
+
+**Copyright © [2024-Present] Brotech. All Rights Reserved.**<br><br>
 **[IMPORTANT NOTICE — PLEASE READ CAREFULLY]**
 
 This End User License Agreement (hereinafter referred to as "this Agreement") is a legal contract between you (a natural person, legal entity, or any unincorporated organization) and "Brotech" (hereinafter referred to as the "Author") regarding the aforementioned software product (hereinafter referred to as "this Software").
