@@ -2,7 +2,7 @@
 
 欢迎使用：RSA消息非对称加密工具（哥哥科技）
 
-下载、复制、存储、传输、操作、运行、分发或以任意方式使用该软件的二进制/源码或任何形式，即代表您**完全理解并同意、遵守[哥哥科技专有软件最终用户许可协议 (EULA)](https://github.com/ucxn/RSA-message-encrypt/blob/main/LICENSE.md)**
+下载、复制、存储、传输、操作、运行、分发或以任意方式使用该软件的二进制/源码或任何形式，即代表您**完全理解并同意、遵守[哥哥科技专有软件最终用户许可协议 (EULA)](https://github.com/ucxn/RSA-message-encrypt/LICENSE.md)**
 
 此工具可以加密文本，即使通讯全程被监听，也能确保消息的私密性（security）
 
